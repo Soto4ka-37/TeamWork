@@ -10,7 +10,7 @@ namespace TeamWork
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello SSSSSSS WSDSDWorld!");
+            Console.WriteLine("Hello SSSSSSS WSDSDWorldSAS!");
         }
     }
 }
